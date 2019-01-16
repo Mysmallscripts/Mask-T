@@ -1,7 +1,9 @@
 
 Extract pose or cut hidden masked areas of a mesh in Blender 2.8 in sculpt mode
 
-The extract use the solidify modier and the pose use the hook, they have to be applied from the modiffier tab. 
+The extract use the solidify modifier and the pose use the hook, they have to be applied from the modifier tab. 
+
+The pose creates an empty object that should be deleted after aplying the hook modifier.
 
 Works without masking the area too and just hidding it.
 
