@@ -1,5 +1,5 @@
 
-Extract pose or cut hidden masked areas of a mesh in Blender 2.8 in sculpt mode
+Extract pose or cut hidden masked areas of a mesh in Blender 2.8 in sculpt mode.
 
 The extract use the solidify modifier and the pose use the hook, they have to be applied from the modifier tab. 
 
